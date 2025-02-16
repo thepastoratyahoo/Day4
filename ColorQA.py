@@ -11,3 +11,4 @@ print(
     + "\033[31m" + challenge + "\033[0m" +
     ". I hope you can find someone to help you. " + "\033[32m" + friend +
     "\033[0m" + " might be wise to help you. Reach out to them today!")
+# Thanks for checking this out!
